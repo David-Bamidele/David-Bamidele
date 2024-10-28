@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bamidele David</h1>
-<h3 align="center">A Data Analyst focused on Macroeconomics based in Nigeria 🇳🇬</h3>
+<h3 align="center">A Data Analyst Scientist and Analyst focused on Business Development based in Nigeria 🇳🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-bamidele&label=Profile%20views&color=0e75b6&style=flat" alt="david-bamidele" /> </p>
 
